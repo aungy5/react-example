@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aungy5.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/aungy5.github.io/static/js/main.3ce938ad.chunk.js",
+    "main.js.map": "/aungy5.github.io/static/js/main.3ce938ad.chunk.js.map",
+    "runtime-main.js": "/aungy5.github.io/static/js/runtime-main.eea178f8.js",
+    "runtime-main.js.map": "/aungy5.github.io/static/js/runtime-main.eea178f8.js.map",
+    "static/js/2.15f1b5a1.chunk.js": "/aungy5.github.io/static/js/2.15f1b5a1.chunk.js",
+    "static/js/2.15f1b5a1.chunk.js.map": "/aungy5.github.io/static/js/2.15f1b5a1.chunk.js.map",
+    "static/js/3.981c8aae.chunk.js": "/aungy5.github.io/static/js/3.981c8aae.chunk.js",
+    "static/js/3.981c8aae.chunk.js.map": "/aungy5.github.io/static/js/3.981c8aae.chunk.js.map",
+    "index.html": "/aungy5.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/aungy5.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.15f1b5a1.chunk.js.LICENSE.txt": "/aungy5.github.io/static/js/2.15f1b5a1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/aungy5.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eea178f8.js",
+    "static/js/2.15f1b5a1.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3ce938ad.chunk.js"
+  ]
+}
